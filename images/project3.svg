@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300">
+    <rect width="640" height="300" rx="18" fill="#dcefed" />
+    <circle cx="320" cy="125" r="74" fill="#16777b" />
+    <text x="320" y="151" text-anchor="middle" font-size="75" fill="white">●</text>
+    <text x="320" y="255" text-anchor="middle" font-family="Arial" font-size="30" fill="#123d42">
+        SmartWater</text>
+</svg>
